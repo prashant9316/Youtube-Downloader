@@ -1,0 +1,5 @@
+ffmpeg-normalize==0.5
+imageio==2.9.0
+imageio-ffmpeg==0.4.2
+pydub==0.24.1
+pytube3==9.6.4
